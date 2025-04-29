@@ -1,0 +1,1 @@
+# DAY-2-static-methods
